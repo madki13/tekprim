@@ -104,7 +104,7 @@
                 <div class="w-full lg:w-2/3">
                     <div class="pb-10 text-center section-title">
                         <div class="m-auto line"></div>
-                        <h3 class="title">Ayo Buat Aplikasi Impian Anda</h3>
+                        <h3 class="title">AYO BUAT APLIKASI IMPIAN ANDA</h3>
                         <h3 class="title"><span>Murah Cepat Dan Terpercaya</span></h3>
                     </div> <!-- section title -->
                 </div>
